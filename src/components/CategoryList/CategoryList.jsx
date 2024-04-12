@@ -16,7 +16,7 @@ const CategoryList = () => {
         Explore thousands of job opportunities with all the information you
         need. Its your future
       </p>
-      <div className=" flex flex-wrap gap-10">
+      <div className=" flex flex-wrap gap-10 mt-10">
         <div className="card card-compact w-64 bg-base-100 shadow-xl">
           <figure>
             <img src="../../assets/icons/accounts.png" alt="jobs card img" />
